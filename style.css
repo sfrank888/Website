@@ -15,7 +15,7 @@ body {
 div.banner {
     height:300px;
     width:100%;
-    background-image: url(/Images/gdj-paws-8899962_1920.png);
+    background-image: url(Images/gdj-paws-8899962_1920.png);
     background-size:contain;
     background-position: center;
     object-fit: cover;
